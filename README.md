@@ -15,7 +15,7 @@ this course is to teach students how to use popular Machine Learning tools to so
 1. Clone the repository to your PC:
   git clone https://github.com/<username>/<course-repo>.git
 2. Watch this repository in case updates were made through the semester
-3. Upload entire [code](code/) folder to your Google Colab folder (Instruction of Google Colab is [here](code/google_colab_instruction/google_colab_instruction.ipynb))
+3. Upload entire [code](code/) and [data](data/)folder to your Google Colab folder (Instruction of Google Colab is [here](code/google_colab_instruction/google_colab_instruction.ipynb))
 4. Click on individual Jupyter Notebook files to run code on your Google Colab
 
 **Happy learning!**
