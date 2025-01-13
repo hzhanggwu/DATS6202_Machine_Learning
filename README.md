@@ -13,5 +13,5 @@ this course is to teach students how to use popular Machine Learning tools to so
 
 ## Getting Started on running code on Google Colab
 1. Download the repository to your PC
-2. Upload entire [code](code/) folder to your Google Colab folder (Instruction of Google Colab is [here](code/google_colab_instruction/))
+2. Upload entire [code](code/) folder to your Google Colab folder (Instruction of Google Colab is [here](code/google_colab_instruction/google_colab_instruction.ipynb))
 3. Click on individual Jupyter Notebook files to run it on your Google Colab
