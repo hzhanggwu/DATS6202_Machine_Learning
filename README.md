@@ -10,6 +10,7 @@ this course is to teach students how to use popular Machine Learning tools to so
 1. [syllabus](syllabus/) includes course syllabus
 2. [slides](slides/) includes the lecture slides
 3. [code](code/) includes the example and case study code
+4. [data](data/) includes some of the datasets for code examples
 
 ## Getting Started
 1. Clone the repository to your PC:
